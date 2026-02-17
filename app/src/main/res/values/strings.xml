@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pedometr</string>
+    <string name="steps_today">Bugungi qadamlar</string>
+    <string name="reset_counter">Qayta boshlash</string>
+    <string name="waiting_for_data">Sensor maʼlumotlari kutilmoqda…</string>
+    <string name="hardware_step_counter">Aniq hisob: STEP_COUNTER sensori faol</string>
+    <string name="fallback_accelerometer">Soddalashtirilgan hisob: akselerometr orqali</string>
+    <string name="sensor_unavailable">Ushbu qurilmada mos sensor topilmadi</string>
+</resources>
